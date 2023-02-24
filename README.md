@@ -1,2 +1,3 @@
 # ReadMe-Generator
-es6 node
+  ![Github License](https://img.shields.io/badge/license-$(license)-blue.svg)
+
