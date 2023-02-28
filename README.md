@@ -22,7 +22,7 @@ npm i
 
 ## license
 ```
-this project is licensed under APACHE 2.0 license.
+this project is licensed under MIT license.
 ```
 
 ## Test
@@ -45,7 +45,12 @@ pull request
 
 ## Questions
 
-if you have any further questions please dont hesitate and contact me at bilaalkulane13@gmail.com
+if you have any further questions please dont hesitate and contact me at Bilaalkulane13@gmail.com
 
-otherwise please feel free to have a look at [bilaalGithub] (https://github.com/bilaalGithub).
+otherwise please feel free to have a look at [BilaalGithub] (https://github.com/BilaalGithub).
+
+## Credits
+Andrew Hoang(Instuctor)
+Austin imbastari(TA)
+Stack overflow
 
